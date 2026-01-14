@@ -6,3 +6,5 @@
 ```
 npm install
 ```
+
+my email is jirapanjr95@gmail.com
